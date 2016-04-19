@@ -1,0 +1,12 @@
+[
+  {
+    "request": {
+      "uri" : "/new/test"
+    },
+    "response": {
+      "json": {
+        "path": "/new/test"
+      }
+    }
+  }
+]
